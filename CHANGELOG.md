@@ -1,3 +1,8 @@
+<a name="0.2.49"></a>
+## [0.2.49](https://github.com/liluxuan1988/qm-acgrid/compare/v0.2.48...v0.2.49) (2020-07-11)
+
+
+
 <a name="0.2.48"></a>
 ## [0.2.48](https://github.com/liluxuan1988/qm-acgrid/compare/v0.2.47...v0.2.48) (2020-07-11)
 
