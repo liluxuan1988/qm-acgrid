@@ -1,6 +1,6 @@
 {
  "name": "0.1",
- "version": "0.2.47",
+ "version": "0.2.48",
  "description": "Gridcn ui component for react",
  "keywords": [
   "react",
@@ -17,7 +17,7 @@
  "author": "Yonyou FED",
  "repository": {
   "type": "git",
-  "url": "git+ssh://git@github.com/tinper-bee/ac-gridcn.git"
+  "url": "git+ssh://github.com/liluxuan1988/qm-acgrid"
  },
  "bugs": {
   "url": "https://github.com/liluxuan1988/qm-acgrid/issues"
