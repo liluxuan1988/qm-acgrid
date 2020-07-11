@@ -1,6 +1,6 @@
 {
  "name": "0.1",
- "version": "0.2.41",
+ "version": "0.2.42",
  "description": "Gridcn ui component for react",
  "keywords": [
   "react",
@@ -13,14 +13,14 @@
  "engines": {
   "node": ">=4.0.0"
  },
- "homepage": "https://github.com/tinper-acs/ac-gridcn.git",
+ "homepage": "https://github.com/liluxuan1988/qm-acgrid",
  "author": "Yonyou FED",
  "repository": {
   "type": "git",
   "url": "git+ssh://git@github.com/tinper-bee/ac-gridcn.git"
  },
  "bugs": {
-  "url": "https://github.com/tinper-acs/ac-gridcn.git/issues"
+  "url": "https://github.com/liluxuan1988/qm-acgrid/issues"
  },
  "license": "MIT",
  "main": "./build/index.js",
